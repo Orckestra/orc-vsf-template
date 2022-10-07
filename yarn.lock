@@ -8571,10 +8571,10 @@ optionator@^0.8.1:
     type-check "~0.3.2"
     word-wrap "~1.2.3"
 
-orc-vsf-api@^0.0.6:
-  version "0.0.6"
-  resolved "https://registry.npmjs.org/orc-vsf-api/-/orc-vsf-api-0.0.6.tgz#b392268d5166f1dfb0e4399026be7145d1307647"
-  integrity sha512-EtqYbE0QqLDiKVIX0fEZqHGBcIggDWZR6pFs0E8WULU65vVOQeBcHey307eI45XJRXiBHJ0LSw/gT3jcIMCBXw==
+orc-vsf-api@^0.1.0-dev.365:
+  version "0.1.0-dev.365"
+  resolved "https://registry.yarnpkg.com/orc-vsf-api/-/orc-vsf-api-0.1.0-dev.365.tgz#1d3680dcfcfda6809be203cc8af203570d8c9c11"
+  integrity sha512-Y0Ksh3VZ3VhaIxfCpdklPNcU4ZruDXGk5MR5qqDuCvkL+dsMtjYmqUi9Ymnw+4d0LfT9KtAAg/7YouvUwuE2ow==
   dependencies:
     "@vue-storefront/core" "~2.5.12"
     axios "^0.26.1"
@@ -8583,13 +8583,13 @@ orc-vsf-api@^0.0.6:
     node-cache "^5.1.2"
     uuid "^8.3.2"
 
-orc-vsf@^0.0.6:
-  version "0.0.6"
-  resolved "https://registry.npmjs.org/orc-vsf/-/orc-vsf-0.0.6.tgz#bfa61db92a45c7e61d5a0a0b83ce7aa3f2e7bf65"
-  integrity sha512-8rorZerN/Qyb59S/c9FqwPTukeaL5qNgCt8Bz/3+3h+SxTf0rpB2a8l0YQ8NxMIgx4zseaJPHMRr4XwErjrN8A==
+orc-vsf@^0.1.0-dev.365:
+  version "0.1.0-dev.365"
+  resolved "https://registry.yarnpkg.com/orc-vsf/-/orc-vsf-0.1.0-dev.365.tgz#c10732b31daaf29e3b78d64a531fb81d26c5d6a0"
+  integrity sha512-WQh8/stLB5ZcM9vXHyxGrhuR5X5ZewlJtt9Z7meiOHBcU6Buv8SvXlUaEqBqcZBBhxr27iA80GmddhH7l7zdbg==
   dependencies:
     "@vue-storefront/core" "~2.5.12"
-    orc-vsf-api "^0.0.6"
+    orc-vsf-api "^0.1.0-dev.365"
 
 os-browserify@^0.3.0, os-browserify@~0.3.0:
   version "0.3.0"
